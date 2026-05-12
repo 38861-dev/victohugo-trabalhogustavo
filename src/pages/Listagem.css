@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main{
+    width: 207vh;
+    height: 100vh;
+    float: left;
+    margin-top: 15vh;
+    border-radius: 20px;
+    background: #000;
+    box-shadow: 0 0 10px #777;
+}
+h1{
+  color: green;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    float: left;
+    margin-left: 5%;
+    margin-top: 6vh;
+    background: green;
+}
+td{
+    border: 1px solid #555;
+    padding: 3px;
+    text-align: center;
+    color: #fff;
+}
